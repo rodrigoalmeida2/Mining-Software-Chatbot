@@ -1,4 +1,5 @@
 venv
 chroma_db
-data
-chatbot_v2.0
+hibernate-orm
+kafka
+node_modules

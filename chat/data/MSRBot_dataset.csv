@@ -1,0 +1,166 @@
+Project,User Query
+Hibernate,how many commits we have?
+Hibernate,how many commits last month
+Hibernate,"what happen from May 25, 2018 to May 31, 2018"
+Hibernate,changes on JobBatch
+Hibernate,changes on the file JobBatch
+Hibernate,what is the name of the developer that have mot unfixed bugs
+Hibernate,what is the name of the developer that have the most unfixed bugs
+Hibernate,Who have most unfixed bugs
+Hibernate,Who have most fixed bugs
+Hibernate,Who have most fixed bugs in HibernateEntityManager.java
+Hibernate,which file are the most buggy?
+Hibernate,"show my the bugs on dec 19, 2017"
+Hibernate,show my the fix for HHH-11965
+Hibernate,show my bugs that introduced in 00d7baedfab13b8436beaa2c95b24dd3d6af7f5e
+Hibernate,how many of  June 2018 bugs are fixed
+Hibernate,show me the percentage of bugs fixes in June 2018
+Hibernate,show me the percentage of bugs fixes that introduced bugs in June 2018
+Hibernate,commit number
+Hibernate,August1 till August 2
+Hibernate,how many commits last month
+Hibernate,return a commit message
+Hibernate,return a commit message on juLY30
+Hibernate,return a commit message on July 20
+Hibernate,return a commit message on July 31
+Hibernate,return a commit message on July 22
+Hibernate,return a commit message on July 18
+Hibernate,return a commit message on July 17
+Hibernate,how many commits in the last month?
+Hibernate,return a commit message on July 22
+Hibernate,return a commit message on July 22
+Hibernate,touch JobBatch
+Hibernate,who has the most unfixed bugs
+Hibernate,who fixed most bugs on the file HibernateEntityManager
+Hibernate,which files introduced most bugs
+Hibernate,"the buggy commits that happened on Dec 19, 2017"
+Hibernate,which commit(s) that fixed the bug ticket HHH-11965
+Hibernate,the bug(s) that were introduced because of commit hash 00d7baedfab13b8436beaa2c95b24dd3d6af7f5e
+Hibernate,the percentage of the fixing commits that introduced bugs on June 2018
+Hibernate,hey
+Hibernate,Bonjour
+Hibernate,What's your name?
+Hibernate,how many commits have been added last month? 
+Hibernate,tell me the number of commits last month
+Hibernate,tell me commit infos between 27th may 2018 till the end of that month
+Hibernate,give me all the changes in JobBatch file
+Hibernate,which developer has most number of bugs yet to be fixed
+Hibernate,HibernateEntityManager.java
+Hibernate,which are the most buggy files
+Hibernate,give me a list of buggy commits
+Hibernate,19th dec 2017
+Hibernate,Determine which commit(s) that fixed the bug ticket HHH-11965
+Hibernate,00d7baedfab13b8436beaa2c95b24dd3d6af7f5e
+Hibernate,Determine the percentage of the fixing commits that introduced bugs on June 2018
+Hibernate,Determine the percentage of the fixing commits that introduced bugs on July 2018
+Hibernate,Determine the number of commits that happened in the last month
+Hibernate,Determine the commits information that happened between 27/5/2018 - 31/5/2018
+Hibernate,Determine all the changes that happened on JobBatch file
+Hibernate,Determine the developers that had the most unfixed bugs
+Hibernate,Determine the developers that had the most fixed bugs in HibernateEntityManager.java
+Hibernate,Determine the files that introduce the most bugs
+Hibernate,"Determine the buggy commits that happened on Dec 19, 2017"
+Hibernate,Determine which commit(s) that fixed the bug ticket HHH-11965
+Hibernate,Determine the bug(s) that were introduced because of commit hash 00d7baedfab13b8436beaa2c95b24dd3d6af7f5e
+Hibernate,Determine the percentage of the fixing commits that introduced bugs on June 2018
+Hibernate,Where is your db located?
+Hibernate,how many commits were pushed in the last month?
+Hibernate,what are the details of the commits between  27/5/2018 - 31/5/2018?
+Hibernate,What are the changes that happend on JobBatch ?
+Hibernate,What r changes on JobBatch ?
+Hibernate,who has most unfixed bugs?
+Hibernate,who did most fixed bugs in HibernateEntityManager.java?
+Hibernate,what r the files that introduced most bugs/?
+Hibernate,"what r the buggy commits that occurred on Dec 19, 2017?"
+Hibernate,what r the commits that fixed the bug ticket HHH-11965?
+Hibernate,what is the bug inducred by commit 00d7baedfab13b8436beaa2c95b24dd3d6af7f5e?
+Hibernate,what is the percentage of the fixing commits on june 2018?
+Hibernate,commits in the last month?
+Hibernate,name of repo
+Hibernate,commits between 27-05-2018 and 31-05-2018?
+Hibernate,JobBatch changes?
+Hibernate,most unfixed bugs developers
+Hibernate,most fixed bugs in HibernateEntityManager.java developers?
+Hibernate,files that have the most bugs
+Hibernate,count buggy commits on 19-12-2017
+Hibernate,issue HHH-11965 commits ?
+Hibernate,commits resulting from 00d7baedfab13b8436beaa2c95b24dd3d6af7f5e
+Hibernate,fixing commits ?
+Hibernate,fixing commits that have bugs
+Hibernate,fixing commits that have bugs on june 2018
+Hibernate,help
+Hibernate,commands
+Kafka,how many commits happened in the last month
+Kafka,What commits happened between 27/5/208 - 31/5/2018
+Kafka,give me all the commits for NetworkClientUtils file
+Kafka,Who is the developer fixing the larggest number of bugs
+Kafka,Who had the most fixed bugs.
+Kafka,Who had the most fixed bugs in KafkaAdminClient.java?
+Kafka,What are the most buggy files
+Kafka,"What buggy commits happened on Dec 19, 2017?"
+Kafka,Which commit fixed the issue KAFKA-7354
+Kafka,What bug does the commit 0636928d961a6ceaab46d908f9372d913c3e5faf intrduce?
+Kafka,What is the ratio of fixes that create bug on June 2018?
+Kafka,is this percentage high or low
+Kafka,Determine the number of commits that happened in the last month
+Kafka,Determine the details of the commits that happened between 27/5/2018 - 31/5/2018
+Kafka,Determine all the changes that happened on NetworkClientUtils file
+Kafka,Determine the developers that had the most unfixed bugs
+Kafka,Determine the developers that fixed the most bugs in KafkaAdminClient.java
+Kafka,Determine the files that introduce the most bugs
+Kafka,"Determine the buggy commits that happened on Dec 19, 2017"
+Kafka,"what are the buggy commits that happened on Dec 19, 2017"
+Kafka,commit(s) that fixed the bug ticket KAFKA-7354
+Kafka,the bug(s) that were introduced because of commit hash 0636928d961a6ceaab46d908f9372d913c3e5faf
+Kafka,the percentage of the fixing commits that introduced bugs on June 2018
+Kafka,How many commits happened in the last month?
+Kafka,can you tell me the details of the commits between May 27th 2018 and May 31st 2018
+Kafka,what  the details of the commits between May 27th 2018 and May 31st 2018
+Kafka,what are the details of the commit between 27/5/2018 - 31/5/2018
+Kafka,show me the changes for file NetworkClientUtils file
+Kafka,which developer had th emost unfixed bugs?
+Kafka,which developers fixed the most bugs in kafkaAdminClient.java?
+Kafka,which files introduced the most bugs
+Kafka,"what commits were buggy on Dec 19, 2017"
+Kafka,which commit fixed the bug ticket Kafka-7354
+Kafka,what bugs were introduced because of commit 0636928d961a6ceaab46d908f9372d913c3e5faf
+Kafka,what percentage of fixing commits introduced bugs on june 2018?
+Kafka,what language are you written in?
+Kafka,how many commits in last month
+Kafka,what happen between may 27th and may 31th last year
+Kafka,what happen between may 27th and may 31th in 2018
+Kafka,what changes on NetworkClientUtils
+Kafka,what changes on NetworkclientUtils.java
+Kafka,who has the most bugs to fix
+Kafka,who fixed the most bugs in KafkaAdminClient.java
+Kafka,which file has the most bugs
+Kafka,"which commit is buggy on December 19th, 2017"
+Kafka,which commit fix KAFKA-7354
+Kafka,which commit fix KAFKA-7353
+Kafka,what are the bugs caused by commit 0636928d961a6ceaab46d908f9372d913c3e5faf
+Kafka,which commit fix KAFKA-3025
+Kafka,how many fixing commits caused bugs on June 2018
+Kafka,how many fixing commits leads to bugs on June 2018
+Kafka,what is the percentage of fixing commit that lead to bugs on June 2018
+Kafka,how many commits happened in last month?
+Kafka,Gould you tell me the detail commits of the date between 27/5/2018 - 31/5/2018?
+Kafka,Can you return all the changes of file NetworkClientUtils?
+Kafka,Determine the developers that had the most unfixed bugs?
+Kafka,Determine the developers that fixed the most bugs in KafkaAdminClient.java
+Kafka,Determine the files that introduce the most bugs
+Kafka,"Determine the buggy commits that happened on Dec 19, 2017"
+Kafka,Determine that commit(s) that fixed the bug ticket KAFKA-7354
+Kafka,Determine the bug(s) that were introduced because of commit hash 0636928d961a6ceaab46d908f9372d913c3e5faf
+Kafka,Determine the percentage of the fixing commits that introduced bugs on June 2018
+Kafka,what is the latest commit
+Kafka,latest commit
+Kafka,what is the latest commit
+Kafka,commits that happened between 27/5/2018 - 31/5/2018
+Kafka,all the changes that happened on NetworkClientUtils
+Kafka,developers that had the most unfixed bugs
+Kafka,developers that fixed the most bugs in KafkaAdminClient.java
+Kafka,files that introduce the most bugs
+Kafka,"buggy commits that happened on Dec 19, 2017"
+Kafka,commit(s) that fixed the bug ticket KAFKA-7354
+Kafka,bug(s) that were introduced because of commit hash 0636928d961a6ceaab46d908f9372d913c3e5faf
+Kafka,percentage of the fixing commits that introduced bugs on June 2018
